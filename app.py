@@ -2,7 +2,7 @@ import streamlit as st
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="Kevin Go's Portfolio",
+    page_title="Nachiketa's Portfolio",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="expanded",
